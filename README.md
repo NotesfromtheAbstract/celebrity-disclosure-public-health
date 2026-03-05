@@ -50,4 +50,4 @@ Open `disclosure_effect_chart.R` in RStudio and source it. Charts will save to `
 
 ## License
 
-Copyright (c) 2025 Andrew R. Crocker. All rights reserved.
+Copyright (c) 2026 Andrew R. Crocker. All rights reserved.
