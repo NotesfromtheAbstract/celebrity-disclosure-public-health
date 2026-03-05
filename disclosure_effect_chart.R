@@ -1,3 +1,5 @@
+# Copyright (c) 2026 Andrew R. Crocker. All rights reserved.
+
 dir.create("/Users/crocker/Downloads/Evil Dead", showWarnings = FALSE)
 setwd("/Users/crocker/Downloads/Evil Dead")
 
