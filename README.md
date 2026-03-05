@@ -7,7 +7,7 @@
 
 ## About
 
-This repository contains the R code and chart outputs accompanying the *Notes from the Abstract* piece "Sick First," which examines celebrity health disclosure through a public health infrastructure lens using three case studies: Angelina Jolie (BRCA), Kylie Minogue (breast cancer), and Bruce Willis (frontotemporal dementia).
+This repository contains the R code and chart outputs accompanying the *Notes from the Abstract* piece "Being Sick First," which examines celebrity health disclosure through a public health infrastructure lens using three case studies: Angelina Jolie (BRCA), Kylie Minogue (breast cancer), and Bruce Willis (frontotemporal dementia).
 
 ---
 
@@ -15,7 +15,6 @@ This repository contains the R code and chart outputs accompanying the *Notes fr
 
 | File | Description |
 |------|-------------|
-| `sick_first.md` | Final article text |
 | `disclosure_effect_chart.R` | R script generating all three charts |
 | `chart_jolie.png` | BRCA testing rates, United States, 2007–2016 |
 | `chart_kylie.png` | Breast screening index, Australia, 2003–2007 |
