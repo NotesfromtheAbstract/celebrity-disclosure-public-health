@@ -1,4 +1,4 @@
-# Sick First
+# Being Sick First
 ### On Bruce Campbell, cancer, and the things we feel entitled to know
 
 *Notes from the Abstract* — Andrew R. Crocker
