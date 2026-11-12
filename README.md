@@ -1,13 +1,13 @@
 # Being Sick First
 ### On Bruce Campbell, cancer, and the things we feel entitled to know
 
-*Notes from the Abstract* — Andrew R. Crocker
+*Notes from the Abstracts* — Andrew R. Crocker
 
 ---
 
 ## About
 
-This repository contains the R code and chart outputs accompanying the *Notes from the Abstract* piece "Being Sick First," which examines celebrity health disclosure through a public health infrastructure lens using three case studies: Angelina Jolie (BRCA), Kylie Minogue (breast cancer), and Bruce Willis (frontotemporal dementia). https://andrewrcrocker.substack.com/p/being-sick-first
+This repository contains the R code and chart outputs accompanying the *Notes from the Abstracts* piece "Being Sick First," which examines celebrity health disclosure through a public health infrastructure lens using three case studies: Angelina Jolie (BRCA), Kylie Minogue (breast cancer), and Bruce Willis (frontotemporal dementia). https://andrewrcrocker.substack.com/p/being-sick-first
 
 ---
 
